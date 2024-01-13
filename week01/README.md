@@ -1,6 +1,6 @@
 # Overview
 
-As a software student, I am always looking to learn more and improve the skills I already have. My goal is to learn new languages and become more fluent in the ones that I already know by developing programs in languages new to me, and creating more complex ones in languages I have already learned.  
+As a software student, I am always looking for ways to learn and improve. My goal is to learn new languages and become more fluent in the ones that I already know by developing programs in languages new to me, and creating more complex ones in languages I have already learned.  
 
 ## Description
 
@@ -8,8 +8,6 @@ This particular section will demonstrate the first thing that I ever learned, ho
 
 It was created to show the simplicity of how to write a print statement in Python. 
 
-{Provide a link to your YouTube demonstration.  It should be a one minute demo of the software running and a walkthrough of the code.}
-  
 [Software Demo Video](https://youtu.be/br3cHXtR0XU)
 
 # Development Environment
