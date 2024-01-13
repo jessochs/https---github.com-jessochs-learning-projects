@@ -10,7 +10,7 @@ It was created to show the simplicity of how to write a print statement in Pytho
 
 {Provide a link to your YouTube demonstration.  It should be a one minute demo of the software running and a walkthrough of the code.}
   
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/br3cHXtR0XU)
 
 # Development Environment
 
